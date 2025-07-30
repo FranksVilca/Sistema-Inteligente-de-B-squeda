@@ -1,0 +1,317 @@
+[
+  {
+    "url": "https://docs.python.org/es/3/",
+    "nombre": "Documentación Python (Español)",
+    "descripcion": "Documentación oficial de Python en español",
+    "categoria": "Python",
+    "fecha_agregada": "2024-01-01",
+    "estado": "activo",
+    "idioma": "es"
+  },
+  {
+    "url": "https://developer.mozilla.org/es/docs/Web",
+    "nombre": "MDN Web Docs (Español)",
+    "descripcion": "Documentación web de Mozilla en español",
+    "categoria": "Desarrollo Web",
+    "fecha_agregada": "2024-01-01",
+    "estado": "activo",
+    "idioma": "es"
+  },
+  {
+    "url": "https://es.vuejs.org/guide/",
+    "nombre": "Guía Vue.js (Español)",
+    "descripcion": "Guía oficial de Vue.js en español",
+    "categoria": "Framework JavaScript",
+    "fecha_agregada": "2024-01-01",
+    "estado": "activo",
+    "idioma": "es"
+  },
+  {
+    "url": "https://developer.android.com/docs?hl=es",
+    "nombre": "Documentación Android (Español)",
+    "descripcion": "Documentación oficial de Android en español",
+    "categoria": "Desarrollo Mobile",
+    "fecha_agregada": "2024-01-01",
+    "estado": "activo",
+    "idioma": "es"
+  },
+  {
+    "url": "https://datatracker.ietf.org/doc/html/rfc7540",
+    "nombre": "Redes",
+    "descripcion": "",
+    "categoria": "Otro",
+    "fecha_agregada": "2025-07-15",
+    "estado": "activo",
+    "idioma": "es"
+  },
+  {
+    "url": "https://docs.python.org/3/tutorial/errors.html",
+    "nombre": "Documentación oficial de Python - Errores y Excepciones",
+    "descripcion": "Explica el uso de try-except, tipos de excepciones y buenas prácticas.",
+    "categoria": "Python",
+    "fecha_agregada": "2025-07-15",
+    "estado": "activo",
+    "idioma": "es"
+  },
+  {
+    "url": "https://docs.python.org/3/tutorial/datastructures.html",
+    "nombre": "Documentación oficial de Python - Estructuras de datos",
+    "descripcion": "Comparación detallada entre listas y tuplas, con ejemplos de uso.",
+    "categoria": "Python",
+    "fecha_agregada": "2025-07-15",
+    "estado": "activo",
+    "idioma": "es"
+  },
+  {
+    "url": "https://peps.python.org/pep-0318/",
+    "nombre": "PEP 318 - Decoradores en Python",
+    "descripcion": "Especificación técnica y ejemplos de implementación de decoradores.",
+    "categoria": "Python",
+    "fecha_agregada": "2025-07-15",
+    "estado": "activo",
+    "idioma": "es"
+  },
+  {
+    "url": "https://docs.python.org/3/library/asyncio.html",
+    "nombre": "Documentación oficial de asyncio",
+    "descripcion": "Guía para programación asíncrona con async/await.",
+    "categoria": "Python",
+    "fecha_agregada": "2025-07-15",
+    "estado": "activo",
+    "idioma": "es"
+  },
+  {
+    "url": "https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html",
+    "nombre": "Documentación de Pandas - read_csv()",
+    "descripcion": "Parámetros y ejemplos para leer archivos CSV con Pandas.",
+    "categoria": "Python/Data Science",
+    "fecha_agregada": "2025-07-15",
+    "estado": "activo",
+    "idioma": "es"
+  },
+  {
+    "url": "https://flask.palletsprojects.com/en/3.0.x/quickstart/",
+    "nombre": "Documentación oficial de Flask - Quickstart",
+    "descripcion": "Tutorial para crear endpoints básicos con Flask.",
+    "categoria": "Backend/Python",
+    "fecha_agregada": "2025-07-15",
+    "estado": "activo",
+    "idioma": "es"
+  },
+  {
+    "url": "https://django-rest-framework-simplejwt.readthedocs.io/en/latest/",
+    "nombre": "Documentación de SimpleJWT para Django REST",
+    "descripcion": "Configuración de autenticación JWT en DRF.",
+    "categoria": "Backend/Python",
+    "fecha_agregada": "2025-07-15",
+    "estado": "activo",
+    "idioma": "es"
+  },
+  {
+    "url": "https://www.apollographql.com/blog/graphql-vs-rest-5d425123e34b/",
+    "nombre": "Artículo de Apollo GraphQL - Comparación",
+    "descripcion": "Análisis detallado de diferencias entre GraphQL y REST.",
+    "categoria": "APIs",
+    "fecha_agregada": "2025-07-15",
+    "estado": "activo",
+    "idioma": "es"
+  },
+  {
+    "url": "https://www.apollographql.com/docs",
+    "nombre": "Artículo de Apollo GraphQL - Comparación",
+    "descripcion": "Análisis detallado de diferencias entre GraphQL y REST.",
+    "categoria": "APIs",
+    "fecha_agregada": "2025-07-15",
+    "estado": "activo",
+    "idioma": "es"
+  },
+  {
+    "url": "https://expressjs.com/en/guide/using-middleware.html",
+    "nombre": "Documentación oficial de Express.js",
+    "descripcion": "Guía para implementar middleware en Express.",
+    "categoria": "Backend/JavaScript",
+    "fecha_agregada": "2025-07-15",
+    "estado": "activo",
+    "idioma": "es"
+  },
+  {
+    "url": "https://www.npmjs.com/package/cors",
+    "nombre": "Documentación del paquete cors",
+    "descripcion": "Configuración de CORS en aplicaciones Node.js.",
+    "categoria": "Backend/JavaScript",
+    "fecha_agregada": "2025-07-15",
+    "estado": "activo",
+    "idioma": "es"
+  },
+  {
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API",
+    "nombre": "MDN Web Docs - Fetch API",
+    "descripcion": "Uso de Fetch para peticiones HTTP.",
+    "categoria": "Frontend/JavaScript",
+    "fecha_agregada": "2025-07-15",
+    "estado": "activo",
+    "idioma": "es"
+  },
+  {
+    "url": "https://react.dev/reference/react",
+    "nombre": "Documentación oficial de React - Hooks",
+    "descripcion": "Referencia de useState, useEffect, etc.",
+    "categoria": "Frontend/JavaScript",
+    "fecha_agregada": "2025-07-15",
+    "estado": "activo",
+    "idioma": "es"
+  },
+  {
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let",
+    "nombre": "MDN - Diferencias entre var, let y const",
+    "descripcion": "Explicación técnica con ejemplos.",
+    "categoria": "JavaScript",
+    "fecha_agregada": "2025-07-15",
+    "estado": "activo",
+    "idioma": "es"
+  },
+  {
+    "url": "https://css-tricks.com/snippets/css/complete-guide-grid/",
+    "nombre": "CSS-Tricks - Guía completa de Grid",
+    "descripcion": "Tutorial visual para centrar elementos con Grid.",
+    "categoria": "Frontend/CSS",
+    "fecha_agregada": "2025-07-16",
+    "estado": "activo",
+    "idioma": "es"
+  },
+  {
+    "url": "https://react.dev/reference/react/memo",
+    "nombre": "React Docs - React.memo",
+    "descripcion": "Técnicas para optimizar rendimiento.",
+    "categoria": "Frontend/JavaScript",
+    "fecha_agregada": "2025-07-16",
+    "estado": "activo",
+    "idioma": "es"
+  },
+  {
+    "url": "https://www.postgresql.org/docs/current/tutorial-join.html",
+    "nombre": "PostgreSQL Docs - JOINs",
+    "descripcion": "Tipos de JOINs con sintaxis y ejemplos.",
+    "categoria": "Bases de datos",
+    "fecha_agregada": "2025-07-16",
+    "estado": "activo",
+    "idioma": "es"
+  },
+  {
+    "url": "https://www.mongodb.com/docs/manual/indexes/",
+    "nombre": "MongoDB Manual - Indexing",
+    "descripcion": "Cómo crear y usar índices en MongoDB.",
+    "categoria": "Bases de datos",
+    "fecha_agregada": "2025-07-16",
+    "estado": "activo",
+    "idioma": "es"
+  },
+  {
+    "url": "https://alembic.sqlalchemy.org/en/latest/tutorial.html",
+    "nombre": "Documentación de Alembic",
+    "descripcion": "Tutorial para migraciones con SQLAlchemy.",
+    "categoria": "Python/Bases de datos",
+    "fecha_agregada": "2025-07-16",
+    "estado": "activo",
+    "idioma": "es"
+  },
+  {
+    "url": "https://firebase.google.com/docs/firestore/query-data/queries",
+    "nombre": "Firebase Docs - Consultas en Firestore",
+    "descripcion": "Ejemplos de consultas eficientes.",
+    "categoria": "Bases de datos",
+    "fecha_agregada": "2025-07-16",
+    "estado": "activo",
+    "idioma": "es"
+  },
+  {
+    "url": "https://www.postgresql.org/docs/current/warm-standby.html",
+    "nombre": "PostgreSQL Docs - Replicación",
+    "descripcion": "Configuración de replicación paso a paso.",
+    "categoria": "Bases de datos",
+    "fecha_agregada": "2025-07-16",
+    "estado": "activo",
+    "idioma": "es"
+  },
+  {
+    "url": "https://docs.aws.amazon.com/AmazonECS/latest/developerguide/docker-basics.html",
+    "nombre": "AWS Docs - Despliegue con ECS",
+    "descripcion": "Guía para desplegar contenedores en ECS.",
+    "categoria": "DevOps/Cloud",
+    "fecha_agregada": "2025-07-16",
+    "estado": "activo",
+    "idioma": "es"
+  },
+  {
+    "url": "https://docs.github.com/en/actions",
+    "nombre": "GitHub Docs - Actions",
+    "descripcion": "Automatización de CI/CD con GitHub.",
+    "categoria": "DevOps",
+    "fecha_agregada": "2025-07-16",
+    "estado": "activo",
+    "idioma": "es"
+  },
+  {
+    "url": "https://kubernetes.io/docs/concepts/configuration/configmap/",
+    "nombre": "Kubernetes Docs - ConfigMaps",
+    "descripcion": "Manejo de variables de entorno en Kubernetes.",
+    "categoria": "DevOps",
+    "fecha_agregada": "2025-07-16",
+    "estado": "activo",
+    "idioma": "es"
+  },
+  {
+    "url": "https://registry.terraform.io/providers/hashicorp/aws/latest/docs",
+    "nombre": "Terraform AWS Provider",
+    "descripcion": "Configuración de infraestructura en AWS.",
+    "categoria": "DevOps",
+    "fecha_agregada": "2025-07-16",
+    "estado": "activo",
+    "idioma": "es"
+  },
+  {
+    "url": "https://prometheus.io/docs/introduction/overview/",
+    "nombre": "Prometheus Docs - Conceptos básicos",
+    "descripcion": "Configuración de métricas y alertas.",
+    "categoria": "DevOps",
+    "fecha_agregada": "2025-07-16",
+    "estado": "activo",
+    "idioma": "es"
+  },
+  {
+    "url": "https://refactoring.guru/design-patterns/singleton",
+    "nombre": "Refactoring Guru - Patrón Singleton",
+    "descripcion": "Implementación del patrón Singleton.",
+    "categoria": "Java",
+    "fecha_agregada": "2025-07-16",
+    "estado": "activo",
+    "idioma": "es"
+  },
+  {
+    "url": "https://go.dev/doc/gc-guide",
+    "nombre": "Go Docs - Guía de GC",
+    "descripcion": "Funcionamiento del recolector de basura.",
+    "categoria": "Go",
+    "fecha_agregada": "2025-07-16",
+    "estado": "activo",
+    "idioma": "es"
+  },
+  {
+    "url": "https://websockets.readthedocs.io/en/stable/",
+    "nombre": "Documentación de websockets",
+    "descripcion": "Implementación de WebSockets en Python.",
+    "categoria": "Python",
+    "fecha_agregada": "2025-07-16",
+    "estado": "activo",
+    "idioma": "es"
+  },
+  {
+    "url": "https://rxjs.dev/guide/overview",
+    "nombre": "RxJS Docs - Introducción",
+    "descripcion": "Conceptos y ejemplos de programación reactiva.",
+    "categoria": "Programación avanzada",
+    "fecha_agregada": "2025-07-16",
+    "estado": "activo",
+    "idioma": "es"
+  }
+]

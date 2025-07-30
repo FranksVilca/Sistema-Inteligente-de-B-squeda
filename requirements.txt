@@ -1,0 +1,7 @@
+chromadb
+beautifulsoup4
+requests
+chardet
+streamlit
+pandas
+plotly
